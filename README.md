@@ -1,2 +1,2 @@
-# oblig-to
-"Oblig-to" is an obligational task in the subject algorithms from the university.    
+# oblig-tre
+"Oblig-tre" is an obligational task in the subject algorithms from the university.    
